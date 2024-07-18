@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "954612535449",
+    "project_id": "proj-520ea",
+    "storage_bucket": "proj-520ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954612535449:android:e658288f43ae211a68a808",
+        "android_client_info": {
+          "package_name": "com.example.sahil"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx8H8DRKiV20cW0IKDQSyUxYZ-0P1GYhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
